@@ -1,2 +1,3 @@
 # Aspires_Room_Rental
-Python, Tkinter, remote DB
+Room rental service mainly for students who wants to book or find rooms in cities for residence
+Using Python, Tkinter, remote DB
